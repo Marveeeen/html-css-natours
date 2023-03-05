@@ -2,9 +2,9 @@
 A simple landing page for a touring website that I use to study CSS in more depth
 
 ## How It's Made:
-**Tech used:** HTML, CSS, SASS, BEM
+**Tech used:** HTML, CSS, SASS, BEM, Live-server
 
-Created using HTML for structure, CSS for styling, BEM for naming classes, SASS for CSS preprocessor.
+Created using HTML for structure, CSS for styling, BEM for naming classes, SASS for CSS preprocessor and live server for development server
 
 ## Take Aways:
 
