@@ -17,3 +17,25 @@ Created using HTML for structure, CSS for styling, BEM for naming classes, SASS 
 - Inheritance
 - Advance css tip (clip-path)
 - Animation (keyframes, transition)
+
+## Getting started
+To run this app locally, follow these steps:
+1. Clone the repositroy:
+  ```
+  git clone https://github.com/Marveeeen/html-css-natours.git
+  ```
+2. Install dependencies:
+  ```
+  npm install
+  ```
+3. Start the live server:
+  ```
+  npm start
+  ```
+4. Open your browser to http://127.0.0.1:8080/ to view the app.
+
+## Note
+If you are modifying the sass file, run this script to automatically convert your scss file to css file
+```
+npm run compile:sass
+```
