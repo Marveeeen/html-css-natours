@@ -2,9 +2,13 @@
 A simple landing page for a touring website that I use to study CSS in more depth
 
 ## How It's Made:
-**Tech used:** HTML, CSS, SASS, BEM, Live-server
+**Tech used:** HTML, CSS, SASS, Live-server
 
-Created using HTML for structure, CSS for styling, BEM for naming classes, SASS for CSS preprocessor and live server for development server
+Created using HTML for structure, CSS for styling, SASS for CSS preprocessor and live server for development server
+
+## Optimazation
+ - Use BEM for naming classes
+ - Use 7 in 1 CSS architecture
 
 ## Take Aways:
 
@@ -14,6 +18,7 @@ Created using HTML for structure, CSS for styling, BEM for naming classes, SASS 
 - Web performance (less HTTP request, less code, compress code, use a css preprocessor, less image, compress image)
 - Component driven
 - BEM (Block Element Modifier)
+- 7-1 CSS architecture (base, abstracts, components, layout, pages, theme, vender)
 - Inheritance
 - Advance css tip (clip-path)
 - Animation (keyframes, transition)
