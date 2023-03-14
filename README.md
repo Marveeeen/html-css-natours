@@ -23,7 +23,7 @@ Created using HTML for structure, CSS for styling, SASS for CSS preprocessor and
 - BEM (Block Element Modifier)
 - 7-1 CSS architecture (base, abstracts, components, layout, pages, theme, vender)
 - Inheritance
-- Advance css tip (clip-path, perspective, background-blend-mode, backface-visibility, box-decoration-break)
+- Advance css tip (clip-path, perspective, background-blend-mode, backface-visibility, box-decoration-break, shape-outside, filter)
 - Animation (keyframes, transition)
 - transform (scale, skew, translate, rotate)
 
