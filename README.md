@@ -2,6 +2,27 @@
 
 A simple landing page for a touring website that I use to study CSS in more depth
 
+## Layout
+##### Header
+![chrome_U1264VrZ90](https://user-images.githubusercontent.com/97417405/226162242-e31b9b71-259f-40dd-be2a-ca07049ecf71.gif)
+
+##### About
+![chrome_RQziqCv8Qo](https://user-images.githubusercontent.com/97417405/226162329-08cfff01-3455-437d-b916-f7bbc89cd420.gif)
+
+##### Features
+![chrome_6ySgAPEAVQ](https://user-images.githubusercontent.com/97417405/226162374-b3903975-1358-4802-b87c-b2afffcef4b5.gif)
+
+##### Tours
+![chrome_XjNZSiBWDU](https://user-images.githubusercontent.com/97417405/226162480-adb23b5e-df05-4084-b941-d7f45bf29565.gif)
+
+##### Stories
+![qwe](https://user-images.githubusercontent.com/97417405/226162918-b8f36411-246e-4f37-b1be-ce8b91eb42cc.jpg)
+![chrome_It4tIiHh5N](https://user-images.githubusercontent.com/97417405/226162867-d66c936b-2397-4368-ad63-fdd78cf50a7a.jpg)
+
+##### Book Now
+![chrome_5AqalPcaY4](https://user-images.githubusercontent.com/97417405/226162741-b1646f2b-c95e-4617-b27a-7cda96ebb366.gif)
+
+
 ## How It's Made:
 
 **Tech used:** HTML, CSS, SASS, Live-server
