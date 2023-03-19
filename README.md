@@ -15,7 +15,7 @@ Created using HTML for structure, CSS for styling, SASS for CSS preprocessor and
 
 ## Take Aways:
 
-- CSS behind the scend (cascade, actual values)
+- CSS behind the scene (cascade, actual values)
 - Responsive design (fluids, media queries, responsive image, correct units, desktop first vs mobile first)
 - Maintanable and scalable code (clean code, easy-to-understand, growth, reusable, how to organize file, how to name classes, how to structure HTML)
 - Web performance (less HTTP request, less code, compress code, use a css preprocessor, less image, compress image)
@@ -23,7 +23,9 @@ Created using HTML for structure, CSS for styling, SASS for CSS preprocessor and
 - BEM (Block Element Modifier)
 - 7-1 CSS architecture (base, abstracts, components, layout, pages, theme, vender)
 - Inheritance
-- Advance css tip (clip-path, perspective, background-blend-mode, backface-visibility, box-decoration-break, shape-outside, filter)
+- Advance css tip (clip-path, perspective, background-blend-mode, backface-visibility, box-decoration-break, shape-outside, filter, solid-color-gradient)
+- Pseudo-lass (invalid, checked, placeholder-shown)
+- Pseudo-element (input-placeholder)
 - Animation (keyframes, transition)
 - transform (scale, skew, translate, rotate)
 
